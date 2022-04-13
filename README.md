@@ -1,8 +1,8 @@
-#VAPNIK AI
+# VAPNIK AI
 
-##Rest of this document is under construction
+## Rest of this document is under construction
 
-###Description
+### Description
 This is the development repo for the VAPNIK AI team for HSUP 2022
 
 ### Instructions
